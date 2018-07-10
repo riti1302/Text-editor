@@ -25,3 +25,12 @@ To install Pmw run the below command in your terminal:
 ```
 pip install Pmw
 ```
+## Contributing  
+
+The project is open source. You can contribute and open pull requests to improve my code.  
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
